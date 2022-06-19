@@ -1,0 +1,27 @@
+Структура баг-репорта:
+
+1) Краткое описание проблемы
+2) Продукт
+3) Платформа
+4) Статус
+5) Приоритет
+6) Серьезность
+7) Предусловия
+8) Шаги воспроизведения
+9) Фактический результат
+10) Ожидаемый результат
+11) Прикрепленные файл
+
+Bug report structure:
+
+1) Description of the problem
+2) Product
+3) Platform
+4) Status
+5) Priority
+6) Seriousness
+7) Preconditions
+8) Playback steps
+9) Actual result
+10) Expected result
+11) Attached file
