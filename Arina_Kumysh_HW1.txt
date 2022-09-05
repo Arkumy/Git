@@ -1,6 +1,5 @@
 Homework_1
 Performed by Arina
-Date Sat May 21 14:41:59 2022
 
 1) Посмотреть где я - 
 	pwd

@@ -1,6 +1,6 @@
 Homework_2(terminal)
 Performed by Arina
-Date: Mon 21:59 06/06/2022
+
 
  1. Сделать папку dir_1 
 	$ mkdir dir_1
